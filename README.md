@@ -1,6 +1,6 @@
 # rosbag_plotter_matlab
 
-A MATLAB script to easily plot graph from ROS bag 
+A MATLAB script to plot graph from ROSbag easily.
 
 ## Download 
 
@@ -11,7 +11,11 @@ git clone https://github.com/MukilSaravanan/rosbag_plotter_matlab.git
 
 ## Installation
 
-1) Go the specified directory where you have cloned the repository 
+1) Go the directory where you have cloned the repository 
+```
+cd <absolute_path_to_the_respository>
+```
+
 ![go_to_the_directory](https://user-images.githubusercontent.com/47444101/189541384-0e05b458-baa3-4205-8b0f-04d54872b982.png)
 
 2) To open the Set Path dialog box, on the Home tab, in the Environment section, click Set Path
